@@ -24,3 +24,5 @@ La función getArtist recibe como parámetro un string con el nombre del artista
 - artistInfo: Contiene información sobre el artista y se guarda como una cadena de texto. 
 - wikipediaUrl: Almacena la URL de la página de Wikipedia asociada al artista. Se guarda como una cadena de texto.
 - isInDataBase: Es un indicador booleano que especifica si el artista se encuentra en la base de datos. Su valor puede ser verdadero o falso.
+
+El url del logo de Wikipedia se puede obtener con la constante WIKIPEDIA_LOGO declarada en el archivo WikipediaArtist.kt
